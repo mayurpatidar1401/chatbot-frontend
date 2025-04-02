@@ -27,7 +27,7 @@ Make sure to clone and run the backend first:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chatbot-frontend.git
+git clone https://github.com/mayurpatidar1401/chatbot-frontend.git
 cd chatbot-frontend
 ```
 
